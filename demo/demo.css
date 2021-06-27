@@ -7,3 +7,9 @@
 .CV\(color-green\) {
   color: var(--color-green);
 }
+.BdrsV\(space-1\) {
+  border-radius: var(--space-1);
+}
+.PV\(space-1\) {
+  padding: var(--space-1);
+}
