@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "demo": "./node_modules/atomizer/bin/atomizer -r index.js -o demo/demo.css demo/demo.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/idmytro/atomizer-custom-properties/issues"
   },
-  "homepage": "https://github.com/idmytro/atomizer-custom-properties#readme"
+  "homepage": "https://github.com/idmytro/atomizer-custom-properties#readme",
+  "devDependencies": {
+    "atomizer": "github:idmytro/atomizer#custom-properties"
+  }
 }

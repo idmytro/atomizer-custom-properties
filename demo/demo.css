@@ -1,0 +1,9 @@
+.BdcV\(color-black\) {
+  border-color: var(--color-black);
+}
+.BgcV\(color-red\) {
+  background-color: var(--color-red);
+}
+.CV\(color-green\) {
+  color: var(--color-green);
+}
