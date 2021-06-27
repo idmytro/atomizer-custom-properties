@@ -1,1 +1,1 @@
-# atomizer-custom-properties-rules
+# atomizer-custom-properties
