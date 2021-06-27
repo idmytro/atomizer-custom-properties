@@ -7,4 +7,5 @@ module.exports = [
     ...require('./src/PV'),
 
     require('./src/FzV'),
+    require('./src/LhV'),
   ];

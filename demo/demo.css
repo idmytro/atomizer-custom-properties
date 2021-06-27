@@ -16,3 +16,6 @@
 .FzV\(size-1\) {
   font-size: var(--size-1);
 }
+.LhV\(size-1\) {
+  line-height: var(--size-1);
+}
