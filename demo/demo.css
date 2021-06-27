@@ -13,3 +13,6 @@
 .PV\(space-1\) {
   padding: var(--space-1);
 }
+.FzV\(size-1\) {
+  font-size: var(--size-1);
+}
